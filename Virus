@@ -1,0 +1,29 @@
+apt update 
+apt-get upgrde 
+pkg install python
+pkg install python2 
+pkg install git 
+pkg install ruby 
+gem install lolcat 
+git clone https://github.com/Mrdarktutorial/Malicious 
+ls
+cd Malicious
+ls
+pip2 install -r requirements.txt
+ls
+python2 malicious.py
+
+
+
+
+
+
+
+ 
+
+.
+
+
+
+
+
