@@ -1,12 +1,23 @@
-pkg update 
-
-pkg upgrade 
-
+apt update 
+apt upgrade 
 apt install git 
-
-git clone https://github.com/rajkumardusad/Tool-X 
-
+git clone https://github.com/ekadanuarta/Tool-X.git 
 cd Tool-X 
+chmod +x install 
+./install
+y 
+Tool-X 
+Tool-X
+
+
+
+
+
+
+
+
+
+
 
 
 
