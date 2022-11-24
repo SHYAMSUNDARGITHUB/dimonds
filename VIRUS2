@@ -1,0 +1,12 @@
+apt update && apt upgrade 
+apt install pv 
+pkg install git
+git clone https://github.com/Hacking-pch/papaviruz 
+cd papaviruz 
+ls 
+chmod +x * 
+ls 
+bash papaviruz.sh 
+1
+10
+/sdcard/(new foldar)move
